@@ -1,4 +1,9 @@
-
+"""Este programa es realizado por Julian Andres Solano Zapardiel, Juan Manuel Arboleda Londoño y Karol Andrea Peña Arango
+   Como un proyecto de la asignatura Proyecto experimental 1
+   
+    Universidad EAFIT
+    2022
+"""
 import numpy as np
 from math import radians, pi
 import matplotlib.pyplot as plt
